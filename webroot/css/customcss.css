@@ -1,0 +1,23 @@
+.wrapper-div{
+    margin-top: 2%;
+}
+
+.edit-form{
+    margin-top: 2%;
+}
+
+.edit-actions{
+    text-align: center;
+}
+
+.reports{
+    display: inline;
+    text-align: center;
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+
+.dashboard-card{
+    cursor: pointer;
+}
