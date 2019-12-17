@@ -3,6 +3,18 @@
 Work in progress, check todos to find upcoming changes in code. 
 Latest exported database file can be found in root dir under the name of ```society-management-app.sql```
 
+## Screenshots from the app
+
+### Dashboard
+![Dashboard](/webroot/img/dashboard.png)
+
+### View page
+Similar images for other tabs are in ```/webroot/img/```
+
+![Dashboard](/webroot/img/societies.png)
+
+### Update page
+![Dashboard](/webroot/img/update-page.png)
 
 ## CakePHP Application Skeleton
 
